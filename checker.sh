@@ -1,5 +1,5 @@
 #!/bin/bash
 
 while sleep 1;
-do python3 run.py;
+do python run.py;
 done
