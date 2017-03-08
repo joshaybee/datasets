@@ -4,9 +4,11 @@ We all know that magic eight balls are powerful devices for answering lifes most
 
 #### Don't you want to see further into your own future?
 
-Combining the statistical power of markov chains with the mystical power of American fortune cookies - you can now see the future like never before. *Literally infinite possibilities*
+Combining the statistical power of markov chains with the mystical power of American fortune cookies - you can now see the future like never before. 
 
-I bet your wondering **how do I unleash this power?**
+*Literally infinite possibilities await.*
+
+### How do I unleash this power?**
 
 1. pip install -r requirments.txt
 
