@@ -10,13 +10,21 @@ Combining the statistical power of markov chains with the mystical power of Amer
 
 ### How do I unleash this power?**
 
-1. pip install -r requirments.txt
+1. Preparing yourself for the future:
 
-2. insert your twitter api keys into private.py to share your destiny with the world
+        pip install -r requirments.txt
 
-3. python run.py
+2. Preparing the world for your future:
 
-4. bash run_fortune.py to read the future every ~2h
+        update private.py with your twitter api keys
+
+3. Looking into the future:
+
+        python run.py
+
+4. Looking into the future every ~2h:
+
+        bash run_fortune.py
 
 ### Fortune Cookie Database
 
