@@ -1,1 +1,1 @@
-nohup python /fortune_cookie/run.py & disown -h
+nohup python /MarkovCookie/run.py & disown -h
