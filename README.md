@@ -1,4 +1,4 @@
-# Markov Fortunes
+# Markov Cookie
 
 We all know that magic eight balls are powerful devices for answering lifes most pressing questions, but why put your faith in that is right 50% of the time?
 
