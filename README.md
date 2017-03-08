@@ -30,5 +30,5 @@ Combining the statistical power of markov chains with the mystical power of Amer
 
 This is a collection of ~2800 unique fortune cookies collected from various sources on the web. 
 
-
+[Fortune Cookie Bot 9000](https://twitter.com/FortuneCookiBot)
 
