@@ -16,7 +16,7 @@ Combining the statistical power of markov chains with the mystical power of Amer
 
 2. Preparing the world for your future:
 
-        update private.py with your twitter api keys
+        update private.py with Twitter api keys
 
 3. Looking into the future:
 
