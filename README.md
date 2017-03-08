@@ -16,6 +16,8 @@ Combining the statistical power of markov chains with the mystical power of Amer
 
 3. python run.py
 
+4. bash run_fortune.py to read the future every ~2h
+
 ### Fortune Cookie Database
 
 This is a collection of ~2800 unique fortune cookies collected from various sources on the web. 
