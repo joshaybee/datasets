@@ -13,8 +13,7 @@ import private
 def generate_fortune_cookie():
     fortunes = []
     path = os.path.join('data', 'fortunecookies.csv')
-    with io.open(path, "rt", encoding='utf-8') as f:
-
+    with io.open(path, "rt") as f:
         reader = csv.reader(f)
         for row in reader:
             fortunes.append(row)
